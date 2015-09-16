@@ -1,0 +1,9 @@
+.vs/PGCodeFirst/v14/.suo
+
+.vs/config/applicationhost.config
+
+PGCodeFirst.Services/bin/*
+PGCodeFirst.Services/obj/*
+PGCodeFirst.Web/bin/*
+PGCodeFirst.Web/obj/*
+packages/*
